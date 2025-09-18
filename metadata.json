@@ -1,0 +1,7 @@
+{
+  "name": "DocuScan AI",
+  "description": "An intelligent document scanner that uses your webcam or uploaded files to capture documents. It leverages the Gemini API for powerful OCR to extract text, allows for manual corrections, and lets you download the results as a text file, all within a sleek and modern interface.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
